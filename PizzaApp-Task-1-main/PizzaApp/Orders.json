@@ -1,0 +1,20 @@
+{
+  "NumOfPizzas": 1,
+  "UserId": 1,
+  "ListOfPizzas": [
+    {
+      "Topping": {
+        "Type": "Meat",
+        "Price": 17.5
+      },
+      "Size": {
+        "Type": "Small",
+        "Price": 10
+      },
+      "Side": {
+        "Type": "Fries",
+        "Price": 5.5
+      }
+    }
+  ]
+}
